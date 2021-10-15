@@ -46,9 +46,9 @@ Pizza Hunt is a social media recipe app where users can post their choice of piz
 
 ## Below is the screenshot and Deployed application of the Project as per client request ## 
 
-![Screenshot of web page](./public/assets/images/image1.PNG)
+![Screenshot of web page](./public/assets/images/image1.png)
 
-![Screenshot of web page](./public/assets/images/image2.PNG)
+![Screenshot of web page](./public/assets/images/image2.png)
 
 ## Deployed Sites ##
 
